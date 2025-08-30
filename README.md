@@ -1,2 +1,23 @@
-# Draggable-Hashtag-Box
-A simple and interactive Draggable Hashtag/Tag Manager built with HTML, CSS, and JavaScript. Users can:  ➕ Add custom tags with a click or by pressing Enter  ❌ Remove tags easily  🔀 Drag and drop tags to reorder  Get smart tag suggestions (HTML, CSS, JavaScript, Node.js, etc.) as they type.
+# 🏷️ Draggable Hashtag/Tag Manager
+
+A simple and interactive **Draggable Hashtag/Tag Manager** built with **HTML, CSS, and JavaScript**.  
+Easily add, remove, and reorder tags with drag-and-drop. Includes **tag recommendations** for a smoother experience.
+
+---
+
+## ✨ Features
+- 🖱️ **Drag & Drop** tags to reorder  
+- ➕ **Add Tags** by pressing `Enter` or clicking `Add`  
+- ❌ **Remove Tags** with one click  
+- 🔍 **Smart Tag Suggestions** (HTML, CSS, JavaScript, Node.js, etc.)  
+- 🎨 **Responsive Design** with clean UI  
+- ⚡ No frameworks required – built with **Vanilla JavaScript**  
+
+
+## 📂 Project Structure
+draggable-tag-manager
+┣ 📜 index.html # Main HTML file
+┣ 📜 style.css # Styling
+┣ 📜 script.js # Functionality
+┗ 📜 README.md # Project documentation
+
